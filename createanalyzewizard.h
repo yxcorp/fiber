@@ -58,6 +58,7 @@ private:
     bool m_captured;
     QLabel *photoLabel;
     void captureButtonClicked();
+
 };
 
 class AnalyzeProgressPage : public QWizardPage

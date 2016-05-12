@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/translations">
+        <file alias="fiber">cn.qm</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="file-save">file-save.png</file>
+        <file alias="file-open">file-open.png</file>
+        <file alias="tpls">tpls-dlg.png</file>
+        <file alias="users">users-dlg.png</file>
+        <file alias="logo">logo.ico</file>
+        <file alias="quit">quit.png</file>
+        <file alias="capture">photo2.png</file>
+        <file alias="saveimage">photo.png</file>
+        <file alias="fail">fail.png</file>
+        <file alias="success">success.png</file>
+    </qresource>
+    <qresource prefix="/pics">
+        <file>testphoto2.png</file>
+        <file>resultphoto.png</file>
+        <file>testphoto1.png</file>
+        <file alias="loading">loading.png</file>
+        <file alias="try1">tmpimage/try1.png</file>
+    </qresource>
+    <qresource prefix="/libs">
+        <file>gongtou_Detect_DefectOrlight.dll</file>
+        <file>mutou_Detect_Defect.dll</file>
+    </qresource>
+    <qresource prefix="/configs">
+        <file>gpldata01.txt</file>
+        <file>gpldata02.txt</file>
+    </qresource>
+</RCC>
